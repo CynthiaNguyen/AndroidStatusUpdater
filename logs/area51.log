@@ -1,0 +1,28 @@
+2017-10-04 20:52:19 INFO  AndroidStatusUpdater:10 - Testing log4j setup success!
+2017-10-04 21:00:22 INFO  AndroidStatusUpdater:10 - Testing log4j setup success!
+2017-10-04 21:01:41 INFO  AndroidStatusUpdater:10 - Testing log4j setup success!
+2017-10-04 21:01:51 INFO  AndroidStatusUpdater:10 - Testing log4j setup success!
+2017-10-04 21:02:03 INFO  AndroidStatusUpdater:17 - Testing log4j setup success!
+2017-10-04 21:02:03 INFO  AndroidStatusUpdater:22 - Initialized device list and number of devices
+2017-10-04 21:02:03 INFO  AndroidStatusUpdater:29 - Running command = adb devices
+2017-10-04 21:02:11 INFO  AndroidStatusUpdater:33 - Executed command = adb devices
+2017-10-04 21:02:11 INFO  AndroidStatusUpdater:37 - Capturing output from execution...
+2017-10-04 21:02:11 INFO  AndroidStatusUpdater:40 - List of devices attached
+2017-10-04 21:02:11 INFO  AndroidStatusUpdater:40 - * daemon not running. starting it now at tcp:5037 *
+2017-10-04 21:02:11 INFO  AndroidStatusUpdater:40 - * daemon started successfully *
+2017-10-04 21:02:11 INFO  AndroidStatusUpdater:40 - 
+2017-10-04 21:02:22 INFO  AndroidStatusUpdater:17 - Testing log4j setup success!
+2017-10-04 21:02:22 INFO  AndroidStatusUpdater:22 - Initialized device list and number of devices
+2017-10-04 21:02:22 INFO  AndroidStatusUpdater:29 - Running command = adb devices
+2017-10-04 21:02:22 INFO  AndroidStatusUpdater:33 - Executed command = adb devices
+2017-10-04 21:02:22 INFO  AndroidStatusUpdater:37 - Capturing output from execution...
+2017-10-04 21:02:22 INFO  AndroidStatusUpdater:40 - List of devices attached
+2017-10-04 21:02:22 INFO  AndroidStatusUpdater:40 - 
+2017-10-04 21:04:43 INFO  AndroidStatusUpdater:17 - Testing log4j setup success!
+2017-10-04 21:04:43 INFO  AndroidStatusUpdater:22 - Initialized device list and number of devices
+2017-10-04 21:04:43 INFO  AndroidStatusUpdater:29 - Running command = adb devices
+2017-10-04 21:04:43 INFO  AndroidStatusUpdater:33 - Executed command = adb devices
+2017-10-04 21:04:43 INFO  AndroidStatusUpdater:37 - Capturing output from execution...
+2017-10-04 21:04:43 INFO  AndroidStatusUpdater:40 - List of devices attached
+2017-10-04 21:04:43 INFO  AndroidStatusUpdater:40 - 4a9bcbb6	device
+2017-10-04 21:04:43 INFO  AndroidStatusUpdater:40 - 
