@@ -26,3 +26,226 @@
 2017-10-04 21:04:43 INFO  AndroidStatusUpdater:40 - List of devices attached
 2017-10-04 21:04:43 INFO  AndroidStatusUpdater:40 - 4a9bcbb6	device
 2017-10-04 21:04:43 INFO  AndroidStatusUpdater:40 - 
+2017-10-04 21:16:03 INFO  AndroidStatusUpdater:17 - Testing log4j setup success!
+2017-10-04 21:16:03 INFO  AndroidStatusUpdater:22 - Initialized device list and number of devices
+2017-10-04 21:16:03 INFO  AndroidStatusUpdater:29 - Running command = adb devices
+2017-10-04 21:16:03 INFO  AndroidStatusUpdater:33 - Executed command = adb devices
+2017-10-04 21:16:03 INFO  AndroidStatusUpdater:37 - Capturing output from execution...
+2017-10-04 21:16:03 INFO  AndroidStatusUpdater:40 - List of devices attached
+2017-10-04 21:16:03 INFO  AndroidStatusUpdater:40 - 4a9bcbb6	device
+2017-10-04 21:16:03 INFO  AndroidStatusUpdater:40 - 
+2017-10-04 21:16:38 INFO  AndroidStatusUpdater:17 - Testing log4j setup success!
+2017-10-04 21:16:38 INFO  AndroidStatusUpdater:22 - Initialized device list and number of devices
+2017-10-04 21:16:38 INFO  AndroidStatusUpdater:29 - Running command = adb devices
+2017-10-04 21:16:38 INFO  AndroidStatusUpdater:33 - Executed command = adb devices
+2017-10-04 21:16:38 INFO  AndroidStatusUpdater:37 - Capturing output from execution...
+2017-10-04 21:16:38 INFO  AndroidStatusUpdater:40 - List of devices attached
+2017-10-04 21:16:38 INFO  AndroidStatusUpdater:40 - 4a9bcbb6	device
+2017-10-04 21:16:38 INFO  AndroidStatusUpdater:40 - 
+2017-10-04 21:16:49 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:16:49 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:16:49 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:16:50 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:16:50 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:16:50 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:16:50 INFO  AndroidStatusUpdater:43 - Parsing adb devices output...
+2017-10-04 21:16:50 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:16:50 INFO  AndroidStatusUpdater:43 - Parsing adb devices output...
+2017-10-04 21:16:50 INFO  AndroidStatusUpdater:70 - 4a9bcbb6
+2017-10-04 21:16:50 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:16:50 INFO  AndroidStatusUpdater:43 - Parsing adb devices output...
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:43 - Parsing adb devices output...
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:43 - Parsing adb devices output...
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:70 - 4a9bcbb6
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:71 - 	
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:17:24 INFO  AndroidStatusUpdater:43 - Parsing adb devices output...
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:43 - Parsing adb devices output...
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:43 - Parsing adb devices output...
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:70 - 4a9bcbb6
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:71 - 	
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:17:48 INFO  AndroidStatusUpdater:43 - Parsing adb devices output...
+2017-10-04 21:18:03 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:18:03 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:18:03 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:18:03 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:18:03 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:18:03 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:18:03 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:18:03 INFO  AndroidStatusUpdater:69 - 4a9bcbb6
+2017-10-04 21:18:03 INFO  AndroidStatusUpdater:70 - 	
+2017-10-04 21:18:03 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:18:48 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:18:48 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:18:48 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:18:48 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:18:48 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:18:48 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:18:48 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:18:48 INFO  AndroidStatusUpdater:69 - udid = 4a9bcbb6
+2017-10-04 21:18:48 INFO  AndroidStatusUpdater:70 - 4a9bcbb6	device
+2017-10-04 21:18:48 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:19:01 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:19:01 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:19:01 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:19:01 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:19:01 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:19:01 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:19:01 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:19:01 INFO  AndroidStatusUpdater:69 - udid = 4a9bcbb6
+2017-10-04 21:19:01 INFO  AndroidStatusUpdater:70 - status = 4a9bcbb6	device
+2017-10-04 21:19:01 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:19:12 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:19:12 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:19:12 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:19:12 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:19:12 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:19:12 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:19:12 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:19:12 INFO  AndroidStatusUpdater:69 - udid = 4a9bcbb6
+2017-10-04 21:19:12 INFO  AndroidStatusUpdater:70 - status = 	
+2017-10-04 21:19:12 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:19:31 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:19:31 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:19:31 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:19:31 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:19:31 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:19:31 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:19:31 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:19:31 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:19:38 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:19:38 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:19:38 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:19:38 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:19:38 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:19:38 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:19:38 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:19:38 INFO  AndroidStatusUpdater:69 - udid = 4a9bcbb6
+2017-10-04 21:19:38 INFO  AndroidStatusUpdater:70 - status = 	
+2017-10-04 21:19:38 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:19:49 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:19:49 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:19:49 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:19:49 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:19:49 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:19:49 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:19:49 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:19:49 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:19:53 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:19:53 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:19:53 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:19:53 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:19:53 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:19:53 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:19:53 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:19:53 INFO  AndroidStatusUpdater:69 - udid = 4a9bcbb6
+2017-10-04 21:19:53 INFO  AndroidStatusUpdater:70 - status = 	
+2017-10-04 21:19:53 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:24:30 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:24:30 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:24:30 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:24:30 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:24:30 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:24:30 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:24:30 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:24:30 INFO  AndroidStatusUpdater:69 - udid = 4a9bcbb6
+2017-10-04 21:24:30 INFO  AndroidStatusUpdater:70 - status = 	
+2017-10-04 21:24:30 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:24:47 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:24:47 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:24:47 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:24:47 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:24:47 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:24:47 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:24:47 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:24:47 INFO  AndroidStatusUpdater:69 - udid = 4a9bcbb6
+2017-10-04 21:24:47 INFO  AndroidStatusUpdater:70 - status = 	
+2017-10-04 21:24:47 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:25:02 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:25:02 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:25:02 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:25:02 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:25:02 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:25:02 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:25:02 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:25:02 INFO  AndroidStatusUpdater:69 - udid = 4a9bcbb6
+2017-10-04 21:25:02 INFO  AndroidStatusUpdater:70 - status = 	
+2017-10-04 21:25:02 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:26:44 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:26:44 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:26:44 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:26:44 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:26:44 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:26:44 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:26:44 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:26:44 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:26:51 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:26:51 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:26:51 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:26:51 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:26:51 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:26:51 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:26:51 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:26:51 INFO  AndroidStatusUpdater:69 - udid = 4a9bcbb6
+2017-10-04 21:26:51 INFO  AndroidStatusUpdater:70 - status = 	
+2017-10-04 21:26:51 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:28:16 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:28:16 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:28:16 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:28:16 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:28:16 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:28:16 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:28:26 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:28:26 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:28:26 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:28:26 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:28:26 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:28:26 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:28:26 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:28:26 INFO  AndroidStatusUpdater:69 - udid = 4a9bcbb6
+2017-10-04 21:28:26 INFO  AndroidStatusUpdater:70 - status = 	
+2017-10-04 21:28:26 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:28:38 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:28:38 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:28:38 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:28:39 INFO  AndroidStatusUpdater:35 - Executed command = adb devices
+2017-10-04 21:28:39 INFO  AndroidStatusUpdater:39 - Capturing output from execution...
+2017-10-04 21:28:39 INFO  AndroidStatusUpdater:42 - List of devices attached
+2017-10-04 21:28:39 INFO  AndroidStatusUpdater:42 - 4a9bcbb6	device
+2017-10-04 21:28:39 INFO  AndroidStatusUpdater:69 - udid = 4a9bcbb6
+2017-10-04 21:28:39 INFO  AndroidStatusUpdater:70 - status = device
+2017-10-04 21:28:39 INFO  AndroidStatusUpdater:42 - 
+2017-10-04 21:30:08 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:30:08 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:30:08 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:30:08 INFO  AndroidStatusUpdater:38 - -------------------------
+2017-10-04 21:30:08 INFO  AndroidStatusUpdater:39 - Output
+2017-10-04 21:30:08 INFO  AndroidStatusUpdater:40 - -------------------------
+2017-10-04 21:30:08 INFO  AndroidStatusUpdater:43 - List of devices attached
+2017-10-04 21:30:08 INFO  AndroidStatusUpdater:43 - 4a9bcbb6	device
+2017-10-04 21:30:08 INFO  AndroidStatusUpdater:70 - udid = 4a9bcbb6
+2017-10-04 21:30:08 INFO  AndroidStatusUpdater:71 - status = device
+2017-10-04 21:30:08 INFO  AndroidStatusUpdater:43 - 
+2017-10-04 21:30:29 INFO  AndroidStatusUpdater:19 - Testing log4j setup success!
+2017-10-04 21:30:29 INFO  AndroidStatusUpdater:24 - Initialized device list and number of devices
+2017-10-04 21:30:29 INFO  AndroidStatusUpdater:31 - Running command = adb devices
+2017-10-04 21:30:29 INFO  AndroidStatusUpdater:38 - -------------------------
+2017-10-04 21:30:29 INFO  AndroidStatusUpdater:39 - Output
+2017-10-04 21:30:29 INFO  AndroidStatusUpdater:40 - -------------------------
+2017-10-04 21:30:29 INFO  AndroidStatusUpdater:43 - List of devices attached
+2017-10-04 21:30:29 INFO  AndroidStatusUpdater:43 - 

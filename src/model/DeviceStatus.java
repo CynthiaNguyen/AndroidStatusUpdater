@@ -8,6 +8,11 @@ public class DeviceStatus {
 		
 	}
 	
+	public DeviceStatus(String udid, String status) {
+		this.udid = udid;
+		this.status = status;
+	}
+	
 	public String getUdid() {
 		return udid;
 	}
