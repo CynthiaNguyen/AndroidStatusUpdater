@@ -651,3 +651,123 @@
 2017-10-04 22:33:15 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
 2017-10-04 22:33:15 INFO  AndroidStatusUpdater:133 - Status changed for udid = 4a9bcbb6! Updating status = Available
 2017-10-04 22:33:15 INFO  AndroidStatusUpdater:152 - Waiting 30 seconds...
+2017-10-04 22:39:47 INFO  AndroidStatusUpdater:20 - Testing log4j setup success!
+2017-10-04 22:39:47 INFO  AndroidStatusUpdater:26 - Initialized device list and number of devices
+2017-10-04 22:39:47 INFO  AndroidStatusUpdater:32 - Running command = adb devices
+2017-10-04 22:39:47 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:39:47 INFO  AndroidStatusUpdater:49 - 4a9bcbb6	device
+2017-10-04 22:39:47 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:39:47 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
+2017-10-04 22:39:47 INFO  AndroidStatusUpdater:101 - Updating device = 4a9bcbb6 | status = Available
+2017-10-04 22:39:47 INFO  AndroidStatusUpdater:149 - Waiting 30 seconds...
+2017-10-04 22:39:52 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:39:52 INFO  AndroidStatusUpdater:49 - 4a9bcbb6	device
+2017-10-04 22:39:52 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:39:52 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
+2017-10-04 22:39:52 INFO  AndroidStatusUpdater:130 - Status changed for udid = 4a9bcbb6! Updating status = device
+2017-10-04 22:39:52 INFO  AndroidStatusUpdater:149 - Waiting 30 seconds...
+2017-10-04 22:39:57 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:39:57 INFO  AndroidStatusUpdater:49 - 4a9bcbb6	device
+2017-10-04 22:39:57 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:39:57 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
+2017-10-04 22:39:57 INFO  AndroidStatusUpdater:149 - Waiting 30 seconds...
+2017-10-04 22:40:03 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:40:03 INFO  AndroidStatusUpdater:49 - 4a9bcbb6	device
+2017-10-04 22:40:03 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:40:03 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
+2017-10-04 22:40:03 INFO  AndroidStatusUpdater:149 - Waiting 30 seconds...
+2017-10-04 22:40:08 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:40:08 INFO  AndroidStatusUpdater:49 - 4a9bcbb6	device
+2017-10-04 22:40:08 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:40:08 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
+2017-10-04 22:40:08 INFO  AndroidStatusUpdater:149 - Waiting 30 seconds...
+2017-10-04 22:43:10 INFO  AndroidStatusUpdater:20 - Testing log4j setup success!
+2017-10-04 22:43:10 INFO  AndroidStatusUpdater:26 - Initialized device list and number of devices
+2017-10-04 22:43:10 INFO  AndroidStatusUpdater:32 - Running command = adb devices
+2017-10-04 22:43:10 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:43:10 INFO  AndroidStatusUpdater:49 - 4a9bcbb6	device
+2017-10-04 22:43:10 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:43:10 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
+2017-10-04 22:43:10 INFO  AndroidStatusUpdater:86 - First time getting adb output, updating statuses for all devices connected
+2017-10-04 22:43:10 INFO  AndroidStatusUpdater:93 - device = 4a9bcbb6 | status = device
+2017-10-04 22:43:10 INFO  AndroidStatusUpdater:140 - Waiting 30 seconds...
+2017-10-04 22:43:15 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:43:15 INFO  AndroidStatusUpdater:49 - 4a9bcbb6	device
+2017-10-04 22:43:15 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:43:15 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
+2017-10-04 22:43:15 INFO  AndroidStatusUpdater:140 - Waiting 30 seconds...
+2017-10-04 22:43:20 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:43:20 INFO  AndroidStatusUpdater:49 - 4a9bcbb6	device
+2017-10-04 22:43:20 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:43:20 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
+2017-10-04 22:43:20 INFO  AndroidStatusUpdater:140 - Waiting 30 seconds...
+2017-10-04 22:43:26 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:43:26 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:43:26 INFO  AndroidStatusUpdater:59 - Number of devices connected = 0
+2017-10-04 22:43:26 INFO  AndroidStatusUpdater:73 - Updating device = 4a9bcbb6 | status = Disconnected
+2017-10-04 22:43:26 INFO  AndroidStatusUpdater:134 - Number of devices changed!
+2017-10-04 22:43:26 INFO  AndroidStatusUpdater:140 - Waiting 30 seconds...
+2017-10-04 22:43:31 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:43:31 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:43:31 INFO  AndroidStatusUpdater:59 - Number of devices connected = 0
+2017-10-04 22:43:31 INFO  AndroidStatusUpdater:73 - Updating device = 4a9bcbb6 | status = Disconnected
+2017-10-04 22:43:31 INFO  AndroidStatusUpdater:134 - Number of devices changed!
+2017-10-04 22:43:31 INFO  AndroidStatusUpdater:140 - Waiting 30 seconds...
+2017-10-04 22:43:36 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:43:36 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:43:36 INFO  AndroidStatusUpdater:59 - Number of devices connected = 0
+2017-10-04 22:43:36 INFO  AndroidStatusUpdater:73 - Updating device = 4a9bcbb6 | status = Disconnected
+2017-10-04 22:43:36 INFO  AndroidStatusUpdater:134 - Number of devices changed!
+2017-10-04 22:43:36 INFO  AndroidStatusUpdater:140 - Waiting 30 seconds...
+2017-10-04 22:43:41 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:43:41 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:43:41 INFO  AndroidStatusUpdater:59 - Number of devices connected = 0
+2017-10-04 22:43:41 INFO  AndroidStatusUpdater:73 - Updating device = 4a9bcbb6 | status = Disconnected
+2017-10-04 22:43:41 INFO  AndroidStatusUpdater:134 - Number of devices changed!
+2017-10-04 22:43:41 INFO  AndroidStatusUpdater:140 - Waiting 30 seconds...
+2017-10-04 22:44:39 INFO  AndroidStatusUpdater:20 - Testing log4j setup success!
+2017-10-04 22:44:39 INFO  AndroidStatusUpdater:26 - Initialized device list and number of devices
+2017-10-04 22:44:39 INFO  AndroidStatusUpdater:32 - Running command = adb devices
+2017-10-04 22:44:39 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:44:39 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:44:39 INFO  AndroidStatusUpdater:59 - Number of devices connected = 0
+2017-10-04 22:44:39 INFO  AndroidStatusUpdater:76 - No devices are connected! Waiting 30 seconds...
+2017-10-04 22:44:44 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:44:44 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:44:44 INFO  AndroidStatusUpdater:59 - Number of devices connected = 0
+2017-10-04 22:44:44 INFO  AndroidStatusUpdater:76 - No devices are connected! Waiting 30 seconds...
+2017-10-04 22:44:49 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:44:49 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:44:49 INFO  AndroidStatusUpdater:59 - Number of devices connected = 0
+2017-10-04 22:44:49 INFO  AndroidStatusUpdater:76 - No devices are connected! Waiting 30 seconds...
+2017-10-04 22:44:54 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:44:54 INFO  AndroidStatusUpdater:49 - 4a9bcbb6	device
+2017-10-04 22:44:54 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:44:54 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
+2017-10-04 22:44:54 INFO  AndroidStatusUpdater:86 - First time getting adb output, updating statuses for all devices connected
+2017-10-04 22:44:54 INFO  AndroidStatusUpdater:93 - device = 4a9bcbb6 | status = device
+2017-10-04 22:44:54 INFO  AndroidStatusUpdater:142 - Waiting 30 seconds...
+2017-10-04 22:44:59 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:44:59 INFO  AndroidStatusUpdater:49 - 4a9bcbb6	device
+2017-10-04 22:44:59 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:44:59 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
+2017-10-04 22:44:59 INFO  AndroidStatusUpdater:142 - Waiting 30 seconds...
+2017-10-04 22:45:04 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:45:04 INFO  AndroidStatusUpdater:49 - 4a9bcbb6	device
+2017-10-04 22:45:04 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:45:04 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
+2017-10-04 22:45:04 INFO  AndroidStatusUpdater:142 - Waiting 30 seconds...
+2017-10-04 22:45:09 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:45:09 INFO  AndroidStatusUpdater:49 - 4a9bcbb6	device
+2017-10-04 22:45:09 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:45:09 INFO  AndroidStatusUpdater:59 - Number of devices connected = 1
+2017-10-04 22:45:09 INFO  AndroidStatusUpdater:142 - Waiting 30 seconds...
+2017-10-04 22:45:14 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:45:14 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:45:14 INFO  AndroidStatusUpdater:59 - Number of devices connected = 0
+2017-10-04 22:45:14 INFO  AndroidStatusUpdater:73 - Updating device = 4a9bcbb6 | status = Disconnected
+2017-10-04 22:45:14 INFO  AndroidStatusUpdater:142 - Waiting 30 seconds...
+2017-10-04 22:45:19 INFO  AndroidStatusUpdater:49 - List of devices attached
+2017-10-04 22:45:19 INFO  AndroidStatusUpdater:49 - 
+2017-10-04 22:45:19 INFO  AndroidStatusUpdater:59 - Number of devices connected = 0
+2017-10-04 22:45:19 INFO  AndroidStatusUpdater:142 - Waiting 30 seconds...

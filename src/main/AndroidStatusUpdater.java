@@ -48,9 +48,9 @@ public class AndroidStatusUpdater {
 				while ((line=bf.readLine()) != null) {
 					LOG.info(line);
 
-					DeviceStatus currentDevice = parseAdbOutput(line);					
-					if (currentDevice != null) {
-						currentStatuses.add(currentDevice);
+					DeviceStatus device = parseAdbOutput(line);					
+					if (device != null) {
+						currentStatuses.add(device);
 					}
 				}//end while
 				
@@ -83,23 +83,14 @@ public class AndroidStatusUpdater {
 				//	if this is the first time getting adb output, then update database for all devices connected
 				//--------------------------
 				if (previousStatuses == null) {
-					previousStatuses = currentStatuses;//initialize previousStatuses list
+					LOG.info("First time getting adb output, updating statuses for all devices connected");
+					previousStatuses = currentStatuses;//initialize previousStatuses for the first time
 
 					for (int i = 0; i < previousStatuses.size(); i++) {
 						String status = previousStatuses.get(i).getStatus();
 						String udid = previousStatuses.get(i).getUdid();
-
-						if (status.equalsIgnoreCase("offline")) {//if status = offline then update database as "Offline"
-							previousStatuses.get(i).setStatus("Offline");
-							status = previousStatuses.get(i).getStatus();
 							
-							LOG.info("Updating device = " + udid + " | status = " + status);
-						} else if (status.equalsIgnoreCase("device")) {//if status = device then update database as "Available"
-							previousStatuses.get(i).setStatus("Available");
-							status = previousStatuses.get(i).getStatus();
-							
-							LOG.info("Updating device = " + udid + " | status = " + status);								
-						}
+						LOG.info("device = " + udid + " | status = " + status);	
 					}
 				}
 				
@@ -123,18 +114,17 @@ public class AndroidStatusUpdater {
 								
 								//and if device status changed then update database for this device
 								if (!currentStatus.equalsIgnoreCase(previousStatus)) {
-									if (currentStatus.equalsIgnoreCase("device")) {
-										previousStatuses.get(i).setStatus("Available");
-										previousStatus = previousStatuses.get(i).getStatus(); 
-									} else if (currentStatus.equalsIgnoreCase("offline")) {
-										previousStatuses.get(i).setStatus("Offline");
-										previousStatus = previousStatuses.get(i).getStatus();
-									}
-									LOG.info("Status changed for udid = " + currentUdid + "! Updating status = " + previousStatus);
+
+									previousStatuses.get(i).setStatus(currentStatus);
+									previousStatus = previousStatuses.get(i).getStatus();
+									
+									LOG.info("Status changed for udid = " + previousUdid + "! Updating status = " + previousStatus);
 								}
 							}
 						}						
 					}
+					
+					previousStatuses = currentStatuses;
 				}
 				
 				//--------------------------
